@@ -32,9 +32,9 @@ I'm **Gon**, learning a little **cybersecurity**.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yankkj&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yankkj&theme=dark&hide_border=true&layout=compact" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yankkj&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=methzzy&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=methzzy&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=methzzy&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -74,6 +74,6 @@ I'm **Gon**, learning a little **cybersecurity**.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yankkj&color=yellow&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=methzzy&color=yellow&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Code%20Style-Obsessive-blue?style=for-the-badge&logo=github" />
 </p>
