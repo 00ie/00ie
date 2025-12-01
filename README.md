@@ -32,9 +32,9 @@ I'm **Gon**, learning a little **cybersecurity**.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=methzzy&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=methzzy&theme=dark&hide_border=true&layout=compact" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=methzzy&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=00ie&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00ie&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=00ie&theme=dark&hide_border=true" />
 </p>
 
 ---
