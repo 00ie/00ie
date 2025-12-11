@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Hi,+i'm+gon+)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://discord.com/users/1436134457668141199">
-    <img src="https://lanyard.cnrad.dev/api/1436134457668141199?theme=dark&borderRadius=10px" alt="Discord Rich Presence - gonbanido" />
+  <a href="https://discord.com/users/280370001569906690">
+    <img src="https://lanyard.cnrad.dev/api/280370001569906690?theme=dark&borderRadius=10px" alt="Discord Rich Presence - tlwm" />
   </a>
 </p>
 
@@ -19,8 +19,8 @@ I'm **Gon**, learning a little **cybersecurity**.
 ## Get in Touch
 
 <p align="center">
-  <a href="https://discord.com/users/311773217645920256">
-    <img src="https://img.shields.io/badge/Discord-gonbanido-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/280370001569906690">
+    <img src="https://img.shields.io/badge/Discord-tlwm-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://t.me/feicoes">
     <img src="https://img.shields.io/badge/Telegram-@feicoes-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
