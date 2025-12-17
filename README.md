@@ -28,12 +28,9 @@ Languages  :  JS, TS, Py, Lua, C#, Java.
 - Introduction to Cybersecurity
 
 **Fundação Bradesco**
-- Information Security (14h)
-- IT Fundamentals (7h)
-- LGPD (2h)
-
-**Microsoft**
-- Create a Website (2h)
+- Information Security
+- IT Fundamentals
+- LGPD
 
 ---
 
