@@ -2,11 +2,13 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/00ie" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/00ie" alt="Profile Forks"></a>
 
-```lua
-       OS  :  Windows, Arch Linux.
-Languages  :  JS, TS, Py, Lua, C#, Java, Go, HTML, CSS, Dockerfile, Makefile, SQL.
-   Tools   :  VSCode, Vim, Git, Linux, Windows, Docker, Neovim.
-    Motto  :  Learning cybersecurity.
+```
+        OS :  Windows | Arch Linux.
+ Languages :  JS | TS | Py | Lua | C# | Java | Go | SQL.
+  Frontend : HTML | CSS.
+     Tools :  VSCode | Git | Docker | Neovim.
+    DevOps :  Dockerfile | Makefile.
+     Motto :  Learning cybersecurity.
 ```
 
 <p align="center">
