@@ -5,7 +5,7 @@
 ```
         OS :  Windows | Arch Linux.
  Languages :  JS | TS | Py | Lua | C# | Java | Go | SQL.
-  Frontend : HTML | CSS.
+  Frontend :  HTML | CSS.
      Tools :  VSCode | Git | Docker | Neovim.
     DevOps :  Dockerfile | Makefile.
      Motto :  Learning cybersecurity.
