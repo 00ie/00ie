@@ -4,8 +4,8 @@
 
 ```lua
        OS  :  Windows, Arch Linux.
-Languages  :  JS, TS, Py, Lua, C#, Java, Go.
-   Editor  :  VSCode, VIM.
+Languages  :  JS, TS, Py, Lua, C#, Java, Go, HTML, CSS, Dockerfile, Makefile, SQL.
+   Tools   :  VSCode, Vim, Git, Linux, Windows, Docker, Neovim.
     Motto  :  Learning cybersecurity.
 ```
 
