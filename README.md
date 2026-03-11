@@ -3,11 +3,10 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/00ie" alt="Profile Forks"></a>
 
 ```
-        OS :  Windows | Arch Linux.
- Languages :  JS | TS | Py | Lua | C# | Java | Go | SQL.
-  Frontend :  HTML | CSS.
-     Tools :  VSCode | Git | Docker | Neovim.
-    DevOps :  Dockerfile | Makefile.
+        OS :  Windows | Nyarch Linux.
+ Languages :  Js | Ts | Py | C# | Java | Go | Rust | Nim | SQL | Bash | C++.
+  Frontend :  Wails  | HTML | CSS | React | Vue | Svelte | Tailwind | Bootstrap.
+   Backend :  Django | FastAPI | Node.js | Express | PostgreSQL | MongoDB.
      Motto :  Learning cybersecurity.
 ```
 
