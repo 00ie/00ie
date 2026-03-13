@@ -1,44 +1,28 @@
 ![](https://komarev.com/ghpvc/?username=00ie&color=bb2527&abbreviated=true)
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/00ie" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/00ie" alt="Profile Forks"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Stars&color=bb2527&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/00ie" alt="Profile Stars">
+<img src="https://img.shields.io/badge/dynamic/json?&label=Forks&color=bb2527&style=flat&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/00ie" alt="Profile Forks">
 
-```
-        OS :  Windows | Nyarch Linux.
- Languages :  Js | Ts | Py | C# | Java | Go | Rust | Nim | SQL | Bash | C++.
-  Frontend :  Wails  | HTML | CSS | React | Vue | Svelte | Tailwind | Bootstrap.
-   Backend :  Django | FastAPI | Node.js | Express | PostgreSQL | MongoDB.
-     Motto :  Learning cybersecurity.
+```nasm
+; profile.asm
+
+section .data
+user        db "00ie"
+role        db "cybersecurity student"
+
+systems     db "windows | nyarch linux"
+langs       db "js | ts | py | c# | go | nim | rust | bash"
+
+focus       db "systems | security | research"
+
+section .text
+_start:
+    mov rax, focus
+    xor rbx, rbx        ; no distractions
+    ret
 ```
 
 <p align="center">
   <a href="https://discord.com/users/280370001569906690">
-    <img src="https://lanyard.cnrad.dev/api/280370001569906690?theme=dark&borderRadius=10px" alt="Discord Rich Presence" />
-  </a>
-</p>
-
-
----
-
-## Certifications
-
-**Cisco Networking Academy**
-- Junior Cybersecurity Analyst
-- Ethical Hacker
-- Cybersecurity Threat Management
-- Introduction to Cybersecurity
-
-**Fundação Bradesco**
-- Information Security
-- IT Fundamentals
-- LGPD
-
----
-
-<p align="center">
-  <a href="https://discord.com/users/280370001569906690">
-    <img src="https://img.shields.io/badge/Discord-tlwm-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://t.me/feicoes">
-    <img src="https://img.shields.io/badge/Telegram-@feicoes-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://lanyard.cnrad.dev/api/280370001569906690?theme=dark&borderRadius=10px" alt="Discord Presence" />
   </a>
 </p>
